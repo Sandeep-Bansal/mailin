@@ -49,7 +49,7 @@
     "spamc": "0.0.5",
     "superagent": "^1.2.0",
     "uuid": "^8.1.0",
-    "winston": "^1.0.0"
+    "winston": "^3.2.1"
   },
   "devDependencies": {
     "async": "^1.5.0",
