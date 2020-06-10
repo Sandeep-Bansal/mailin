@@ -1,6 +1,6 @@
 {
-  "name": "mailin",
-  "version": "3.0.4",
+  "name": "mailin ",
+  "version": "3.1.0",
   "description": "Artisanal inbound emails for every web app",
   "engine": "node ~0.12.4",
   "main": "index.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Flolagale/mailin.git"
+    "url": "https://github.com/Sandeep-Bansal/mailin.git"
   },
   "keywords": [
     "incoming",
@@ -25,12 +25,12 @@
     "webhook",
     "post"
   ],
-  "author": "Florent Galland",
+  "author": "Sandeep Bansal",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Flolagale/mailin/issues"
+    "url": "https://github.com/Sandeep-Bansal/mailin/mailin/issues"
   },
-  "homepage": "https://github.com/Flolagale/mailin",
+  "homepage": "https://github.com/Sandeep-Bansal/mailin",
   "dependencies": {
     "bluebird": "^3.7.2",
     "commander": "^5.1.0",
