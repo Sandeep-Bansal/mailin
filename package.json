@@ -35,7 +35,6 @@
     "bluebird": "^3.7.2",
     "commander": "^5.1.0",
     "extend": "^3.0.2",
-    "forever-monitor": "^3.0.0",
     "html-to-text": "^5.1.1",
     "languagedetect": "^2.0.0",
     "lodash": "^4.17.15",
@@ -51,18 +50,5 @@
     "uuid": "^8.1.0",
     "winston": "^3.2.1"
   },
-  "devDependencies": {
-    "async": "^3.2.0",
-    "chai": "^4.2.0",
-    "chai-as-promised": "^7.1.1",
-    "express": "^4.17.1",
-    "grunt": "^1.1.0",
-    "grunt-contrib-jshint": "^2.1.0",
-    "grunt-jsbeautifier": "~0.2.13",
-    "grunt-mocha-test": "^0.13.3",
-    "mocha": "^7.2.0",
-    "multiparty": "^4.2.1",
-    "should": "^13.2.3",
-    "smtp-connection": "^4.0.2"
-  }
+  "devDependencies": {}
 }
